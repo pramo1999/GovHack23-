@@ -1,0 +1,11 @@
+graph matches_graph{
+"135.pdf-1.jpg" -- "136.pdf-1.jpg"[label="Nm=663, Ni=537, C=2.59546"];
+"135.pdf-1.jpg" -- "137.pdf-1.jpg"[label="Nm=15, Ni=11, C=0.88"];
+"136.pdf-1.jpg" -- "138.pdf-1.jpg"[label="Nm=41, Ni=29, C=1.42857"];
+"137.pdf-1.jpg" -- "139.pdf-1.jpg"[label="Nm=10, Ni=9, C=0.818182"];
+"138.pdf-1.jpg" -- "140.pdf-1.jpg"[label="Nm=7, Ni=6, C=0.594059"];
+"139.pdf-1.jpg" -- "141.pdf-1.jpg"[label="Nm=8, Ni=7, C=0.673077"];
+"141.pdf-1.jpg" -- "142.pdf-1.jpg"[label="Nm=502, Ni=411, C=2.59142"];
+"141.pdf-1.jpg" -- "143.pdf-1.jpg"[label="Nm=11, Ni=8, C=0.707965"];
+"142.pdf-1.jpg" -- "144.pdf-1.jpg"[label="Nm=23, Ni=16, C=1.07383"];
+}

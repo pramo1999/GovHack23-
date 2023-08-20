@@ -57,3 +57,8 @@
 
 # wget -r -np -nH -R index.html https://www.actmapi.act.gov.au/hap/
 
+# find . -maxdepth 4 -type f -name '*.pdf' -exec pdftoppm -jpeg {} {} \;
+
+# convert 115.pdf-1.jpg -set page -%[fx:w*0.12]-%[fx:h*0.12] -crop 66%x+0+0 res.jpg
+
+
